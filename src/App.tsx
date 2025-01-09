@@ -68,7 +68,7 @@ function App() {
       <div className="max-w-2xl mx-auto w-full mb-4">
         <div className="bg-gray-200 border-2 border-gray-900 p-4 shadow-win92">
           <h1 className="text-2xl font-bold text-center text-navy-blue">
-            Welcome to the Windows92 File Converter
+            Welcome to the Retro File Converter
           </h1>
         </div>
       </div>
